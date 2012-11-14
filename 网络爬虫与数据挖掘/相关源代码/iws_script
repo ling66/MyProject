@@ -1,0 +1,6 @@
+#!/bin/bash
+javac -cp "jsoup-1.6.2.jar:weka.jar" -encoding UTF8 *.java
+java -classpath "jsoup-1.6.2.jar:weka.jar:." crawl -politeness 0 -maxpages 300 http://www.theage.com.au/digital-life/mobiles
+java -classpath "jsoup-1.6.2.jar:weka.jar:." index
+java -classpath "jsoup-1.6.2.jar:weka.jar:." crawl_smart -politeness 0 -maxpages 120 http://www.news.com.au/technology
+java -classpath "jsoup-1.6.2.jar:weka.jar:." classify_smart_J48
