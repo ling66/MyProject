@@ -1,3 +1,5 @@
+此文件用于运行于学校unix环境说明文档。
+
 Student ID: s3300154    Name: Ling Liu  E-mail: s3300154@student.rmit.edu.au
 
 This document explains how to compile and run my programs on yallara.
