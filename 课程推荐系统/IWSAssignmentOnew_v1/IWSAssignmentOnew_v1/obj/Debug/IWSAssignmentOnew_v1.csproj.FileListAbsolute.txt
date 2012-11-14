@@ -1,0 +1,10 @@
+C:\66--RMIT STUDY\66-My Projects\01--Microsoft NET\IWSAssignmentOnew_v1\IWSAssignmentOnew_v1\bin\IWSAssignmentOnew_v1.dll
+C:\66--RMIT STUDY\66-My Projects\01--Microsoft NET\IWSAssignmentOnew_v1\IWSAssignmentOnew_v1\bin\IWSAssignmentOnew_v1.pdb
+C:\66--RMIT STUDY\66-My Projects\01--Microsoft NET\IWSAssignmentOnew_v1\IWSAssignmentOnew_v1\obj\Debug\ResolveAssemblyReference.cache
+C:\66--RMIT STUDY\66-My Projects\01--Microsoft NET\IWSAssignmentOnew_v1\IWSAssignmentOnew_v1\obj\Debug\IWSAssignmentOnew_v1.dll
+C:\66--RMIT STUDY\66-My Projects\01--Microsoft NET\IWSAssignmentOnew_v1\IWSAssignmentOnew_v1\obj\Debug\IWSAssignmentOnew_v1.pdb
+C:\66--RMIT STUDY\02--Course\66--1 semester 2012\02--Intelligent Web Systems\66--Assignment\AssignmentOne\AssignmentOne_s3300154\IWSAssignmentOnew_v1\IWSAssignmentOnew_v1\bin\IWSAssignmentOnew_v1.dll
+C:\66--RMIT STUDY\02--Course\66--1 semester 2012\02--Intelligent Web Systems\66--Assignment\AssignmentOne\AssignmentOne_s3300154\IWSAssignmentOnew_v1\IWSAssignmentOnew_v1\bin\IWSAssignmentOnew_v1.pdb
+C:\66--RMIT STUDY\02--Course\66--1 semester 2012\02--Intelligent Web Systems\66--Assignment\AssignmentOne\AssignmentOne_s3300154\IWSAssignmentOnew_v1\IWSAssignmentOnew_v1\obj\Debug\ResolveAssemblyReference.cache
+C:\66--RMIT STUDY\02--Course\66--1 semester 2012\02--Intelligent Web Systems\66--Assignment\AssignmentOne\AssignmentOne_s3300154\IWSAssignmentOnew_v1\IWSAssignmentOnew_v1\obj\Debug\IWSAssignmentOnew_v1.dll
+C:\66--RMIT STUDY\02--Course\66--1 semester 2012\02--Intelligent Web Systems\66--Assignment\AssignmentOne\AssignmentOne_s3300154\IWSAssignmentOnew_v1\IWSAssignmentOnew_v1\obj\Debug\IWSAssignmentOnew_v1.pdb
