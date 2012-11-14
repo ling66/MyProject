@@ -1,3 +1,4 @@
+此文件用于运行于学校unix环境说明文档。
 Student number: s3300154
 Name: Ling Liu
 Email: s3300154@student.rmit.edu.au
@@ -15,7 +16,7 @@ Some important things about this project:
    
    Note: because the program hard code the file name, If you want to do any change, please go to StudentInfoInputForm.aspx.cs file at line 18 and line 23. Then you can do any change.
 
-3. The AssignmentOne_Report.pdf includes all the detail about this project.
+3. The 项目分析报告.pdf includes all the detail about this project.
 
 4. The interface ignore the core/elective input part, the program assumes Course 1,2,3,4 has the fixed value for this attribute.
 
